@@ -113,6 +113,8 @@ The application allows rotation to that orientation (defined in Info.plist file)
 
 ### 详细的生命周期图
 
+![uiviewcontroller_lifecycle](uiviewcontroller_lifecycle.jpg)
+
 非常有爱的环形似乎更能简单清晰的讲述整个生命周期将会是个appear、disappear反复出现的过程，[强烈推荐](https://rdkw.wordpress.com/2013/02/24/ios-uiviewcontroller-lifecycle/)。
 
 
