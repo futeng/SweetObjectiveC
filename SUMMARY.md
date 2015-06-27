@@ -5,7 +5,8 @@
 * [介绍](introduction/README.md)
 * [要点](hacks/README.md) 
 	 * [NSString](hacks/NSString.md) 
-	 * [NSMutableString](hacks/NSMutableString.md)    
+	 * [NSMutableString](hacks/NSMutableString.md)
+	 * [View Controller Lifecycle](hacks/ViewControllerLifecycle.md)    
 * [作者](author/README.md)
 
 
