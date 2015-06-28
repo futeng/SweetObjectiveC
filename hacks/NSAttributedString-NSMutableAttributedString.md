@@ -137,10 +137,6 @@ NSMutableAttributedString *characters = [[NSAttributedString alloc]initWithStrin
 
 # 常见属性常量
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 No.|  Attribute Name                | Value Class | Explain
 ---|--------------------------------|-------------|---------
